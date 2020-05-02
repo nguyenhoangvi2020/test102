@@ -1,4 +1,4 @@
-var fakeserver = "http://127.0.0.1:8080";
+var fakeserver = "https://nguyenhoangvi2020.github.io/test102";
 
 var scripts= document.getElementsByTagName('script');
 var runtime_src="runtime.";
